@@ -1,4 +1,4 @@
-### Hi, I'm Pranjal 👋
+### Hi, I'm Pranjal 
 
 Master of Computer Science student @ University of Melbourne (2026–2027) | ex-Associate SWE @ Amdocs
 
